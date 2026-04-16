@@ -16,7 +16,7 @@ The analysis is performed using **Python (EDA)** and visualized through an inter
 ---
 
 ## 📊 Dashboard Preview  
-<img src="./dashboard.jpg" alt="NYC Taxi Dashboard" width="100%"/>
+<img src="./NYC_Dashboard.jpeg" alt="NYC Taxi Dashboard" width="100%"/>
 
 ---
 
