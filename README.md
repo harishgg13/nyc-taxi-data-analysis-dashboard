@@ -87,7 +87,7 @@ The analysis is performed using **Python (EDA)** and visualized through an inter
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/your-username/NYC-Taxi-Data-Analysis.git
+git clone https://github.com/harishgg13/nyc-taxi-data-analysis-dashboard.git
 ```
 
 ### 2️⃣ Open Notebook  
@@ -129,6 +129,7 @@ Ensure the `.parquet` file is in the same directory
 ## 🤝 Connect With Me  
 
 If you like this project or want to collaborate, feel free to connect with me on LinkedIn!
+https://www.linkedin.com/in/ggharish13/
 
 ---
 
